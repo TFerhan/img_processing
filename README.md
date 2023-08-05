@@ -17,6 +17,8 @@ This repository contains a Python script (Script.py) that implements several ima
 To use the image processing functions provided in the `Script.py`. The script uses standard Python libraries, you may need to install numpy, matplotlib.
 For other informations check the Documentation.
 
+Make sure you have placed the principal.jpg image in the same directory as the script.
+
 ## Documentation
 
 For detailed information about the implementation, usage, and credits, please refer to the rapport.pdf file in this repository.
