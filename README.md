@@ -29,5 +29,5 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## Credits
 
-This project was created by Ferhan Taha. Thanks to Pr. Saadi (ENSA Khouribga) for this opportunity to practice on areal life project.
+This project was created by Taha Ferhan. Thanks to Pr. Saadi (ENSA Khouribga) for this opportunity to practice on areal life project.
 
