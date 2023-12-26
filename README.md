@@ -14,7 +14,7 @@ This repository contains a Python script (Script.py) that implements several ima
 - Adding two images horizontally and vertically.
 ## Usage
 
-To use the image processing functions provided in the `Script.py`. The script uses standard Python libraries, you may need to install numpy, matplotlib.
+To use the image processing functions provided in the `Script.py`. The script uses standard Python libraries, you may need to install numpy, matplotlib or use the Dockerfile to create an image.
 For other informations check the Documentation.
 
 Make sure you have placed the principal.jpg image in the same directory as the script.
