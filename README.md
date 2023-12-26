@@ -27,7 +27,4 @@ For detailed information about the implementation, usage, and credits, please re
 
 If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
-## Credits
-
-This project was created by Taha Ferhan. Thanks to Pr. Saadi (ENSA Khouribga) for this opportunity to practice on a real life project.
 
