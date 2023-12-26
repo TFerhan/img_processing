@@ -21,7 +21,7 @@ Make sure you have placed the principal.jpg image in the same directory as the s
 
 ## Documentation
 
-For detailed information about the implementation, usage, and credits, please refer to the rapport.pdf file in this repository.
+For detailed information about the implementation, usage, and credits, please refer to the report.pdf file in this repository.
 
 ## Contributing
 
